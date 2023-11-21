@@ -43,7 +43,7 @@ a:hover {
 
 .profilepic {
     width: 150px;
-    border-radius: 20%;
+    border-radius: 50%;
 }
 
 @media (min-width: 768px) {
